@@ -1,0 +1,6 @@
+{
+  "name": "LinkForge - Guest Post & Backlink Marketplace",
+  "description": "Premium guest post and backlink marketplace with verified DA/DR metrics, Supabase authentication, and Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
